@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Varun Reddy 👋
 
-<!--
-**varunreddy913/varunreddy913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Software Engineer | Strong in Java  
+💻 Passionate about Data Structures, Algorithms, and System Design  
+🔁 Solving problems daily on [LeetCode]([https://leetcode.com/](https://leetcode.com/u/varun2004-13/)) and [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/varun_913))
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: Java, Python
+- DSA: Arrays, Strings, Trees, Graphs, Backtracking, DP
+- Tools: Git, GitHub, VS Code
+- Interests: Blockchain, System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+- 🔒 **Blockchain-based QR Code Verifier** *(In Progress)*
+- 📊 **DSA Visualizer** *(Java GUI / Web App)*
+- 📘 **LeetCode & HackerRank Solutions** (Uploaded in public repos)
+
+## 📫 Let's Connect
+- 📧 varunreddy913@gmail.com *(or your email)*
+- 💼 [LinkedIn](www.linkedin.com/in/varunreddy-reddypally-9132004sep) *(Add your profile link)*
+
+_“Stay hungry, stay foolish.” – Steve Jobs_
+
