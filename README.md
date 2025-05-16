@@ -16,8 +16,8 @@
 - 📘 **LeetCode & HackerRank Solutions** (Uploaded in public repos)
 
 ## 📫 Let's Connect
-- 📧 varunreddy913@gmail.com *(or your email)*
-- 💼 [LinkedIn](www.linkedin.com/in/varunreddy-reddypally-9132004sep) *(Add your profile link)*
+- 📧 varunreddy913@gmail.com 
+- 💼 [LinkedIn](www.linkedin.com/in/varunreddy-reddypally-9132004sep)
 
 _“Stay hungry, stay foolish.” – Steve Jobs_
 
